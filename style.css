@@ -3,7 +3,8 @@
     padding: 0;
 }
 body{
-    background-color: #ffc8dd;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(31,176,206,0.9669117647058824) 100%);
     text-align: center;
 }
 .container{
