@@ -3,9 +3,8 @@
     padding: 0;
 }
 body{
-
-background: rgb(140,74,174);
-background: radial-gradient(circle, rgba(140,74,174,1) 0%, rgba(92,41,129,1) 49%, rgba(52,5,74,0.9669117647058824) 100%);
+background: rgb(173,173,255);
+background: radial-gradient(circle, rgba(173,173,255,1) 0%, rgba(142,142,255,1) 49%, rgba(130,130,255,1) 100%);
     text-align: center;
 }
 .container{
@@ -13,6 +12,11 @@ background: radial-gradient(circle, rgba(140,74,174,1) 0%, rgba(92,41,129,1) 49%
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 0.5%;
+}
+h1{
+    margin-top: 3%;
+    font-size: 3rem;
 }
 .game{
 height: 60vmin;
